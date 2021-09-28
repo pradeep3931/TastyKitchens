@@ -1,0 +1,5 @@
+.cart-list-ul-element {
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+}

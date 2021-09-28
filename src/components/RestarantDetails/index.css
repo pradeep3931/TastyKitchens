@@ -1,0 +1,38 @@
+.restaurent-back-image {
+  background-image: url('../Backgroundpics/Rectangle\ 1399restaurent.jpg');
+  background-size: 30vh;
+  display: flex;
+  margin: 30px;
+  border-radius: 30px;
+  padding: 30px;
+}
+.restaurant-image-size {
+  width: 30%;
+  height: 30%;
+  padding: 30px;
+}
+.restaurant-details-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  color: #ffff;
+}
+.icon-flex-row {
+  display: flex;
+}
+.vl {
+  border-left: 2px solid #ffff;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.rating-cost-container {
+  display: flex;
+  margin: 10px;
+}
+.food-list-container-element {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}

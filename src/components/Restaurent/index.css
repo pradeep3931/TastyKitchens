@@ -1,0 +1,37 @@
+.home-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.restaurants-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+  margin: 20px;
+}
+.products-loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20%;
+}
+.page-indicator {
+  display: flex;
+  margin-left: 50%;
+  align-self: center;
+}
+button {
+  border: none;
+  background-color: transparent;
+}
+@media only screen and (max-width: 768px) {
+  .restaurants-list {
+    display: flex;
+    flex-direction: column;
+  }
+}

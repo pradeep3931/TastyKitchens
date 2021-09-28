@@ -1,0 +1,18 @@
+.container {
+  padding: 0px;
+  margin: 40px;
+  border-radius: 20px;
+}
+
+.slick-slide img {
+  margin: auto;
+}
+.slider-image-width {
+  width: 90%;
+  height: 30%;
+}
+@media only screen and (max-width: 768px) {
+  .container {
+    margin: 0px;
+  }
+}

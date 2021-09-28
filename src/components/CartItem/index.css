@@ -1,0 +1,16 @@
+.cart-item-container {
+  display: flex;
+}
+.Cart-item-food-list-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.price-container {
+  display: flex;
+  margin-left: 20px;
+}
+.cart-food-item-image {
+  width: 40px;
+  height: 40px;
+}

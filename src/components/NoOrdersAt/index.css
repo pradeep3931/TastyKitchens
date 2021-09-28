@@ -1,0 +1,32 @@
+.noorder-ordernow-button {
+  background-color: #f7931e;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 12px;
+  border: none;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  outline: none;
+  cursor: pointer;
+}
+.noorders-container {
+  position: absolute;
+  margin-left: 34.04%;
+  margin-right: 31.04%;
+  margin-top: 5.64%;
+  margin-bottom: 31.64%;
+  background: #ffffff;
+  box-shadow: 0px 4.00734px 40.0734px rgba(23, 31, 70, 0.16);
+  border-radius: 12px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.no-orders-img {
+  width: 70%;
+}

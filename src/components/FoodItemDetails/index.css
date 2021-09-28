@@ -1,0 +1,41 @@
+.food-item-details-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-left: 10px;
+  margin-left: 20px;
+  font-family: DM Sans;
+}
+.rupee-name-rating-container {
+  display: flex;
+}
+.add-button {
+  color: #ffa412;
+  border: 1px solid #ffa412;
+  width: 35%;
+  padding: 5px;
+}
+.food-image-size {
+  width: 30%;
+  height: 30%;
+}
+.food-list-item-container {
+  display: flex;
+  width: 43%;
+  margin: 10px;
+}
+.food-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  letter-spacing: 0.2px;
+  color: #334155;
+}
+.cost-of-food {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #334155;
+}

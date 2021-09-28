@@ -1,0 +1,10 @@
+.cart-counter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inc-btn {
+  width: 30px;
+  border: 1px solid black;
+  margin: 20px;
+}
